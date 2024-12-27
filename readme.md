@@ -52,8 +52,8 @@ Choose the binary for your operating system and architecture from the table belo
 
 | Operating System | Architecture | Binary Name                | Path in Repository                |
 |-------------------|--------------|----------------------------|------------------------------------|
-| Linux            | amd64        | `prime_gen_linux_amd64`   | [`bin/prime_gen_linux_amd64`](./bin/prime_gen_linux_amd64)   |
-| macOS            | amd64        | `prime_gen_macos_amd64`   | [`bin/prime_gen_macos_amd64`](./bin/prime_gen_macos_amd64)   |
+| Linux            | amd64        | `prime_gen_linux_amd64`   | [`bin/prime_gen_linux_amd64`](./bin/prime_gen_linux)   |
+| macOS            | amd64        | `prime_gen_macos_amd64`   | [`bin/prime_gen_macos_amd64`](./bin/prime_gen_macos)   |
 | Windows          | amd64        | `prime_gen_windows_amd64.exe` | [`bin/prime_gen_windows_amd64.exe`](./bin/prime_gen_windows_amd64.exe) |
 | Android          | arm64        | `prime_gen_android_arm64` | [`bin/prime_gen_android_arm64`](./bin/prime_gen_android_arm64) |
 
